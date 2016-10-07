@@ -1,5 +1,14 @@
 # README
 
+## git hub skills is very essentiala
+git init
+git add -A
+git commit -m "comments"
+
+git checkout -- filename
+
+
+## history of my job
 rails new ...
 change gem file
 bundler install --without production
